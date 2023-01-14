@@ -1,0 +1,9 @@
+.ant-tabs-content {
+    min-height: 100%;
+}
+
+*,
+*:focus,
+*:hover {
+    outline: none;
+}
